@@ -11,7 +11,7 @@
 
 ***
 
-* [Managing a Repo](managing-a-repo/README.md)
+* [Managing a Repo](managing-a-repo.md)
   * [Revert to previous commit](managing-a-repo/revert-to-previous-commit.md)
 
 ## Functions
