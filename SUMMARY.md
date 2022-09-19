@@ -1,8 +1,8 @@
 # Table of contents
 
-* [🗒 Outline](README.md)
-  * [Page 1](outline/page-1.md)
+* [Overview](README.md)
 
-## Meeting Template
+## Getting Started
 
-* [Meeting template](meeting-template/meeting-template.md)
+* [Meeting template](getting-started/meeting-template.md)
+* [Page 1](getting-started/page-1.md)
