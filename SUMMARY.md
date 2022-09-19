@@ -9,6 +9,10 @@
   * [Edit with GitHub GUI](getting-started/create-a-github-account/edit-with-github-gui.md)
   * [Edit with VS Code](getting-started/create-a-github-account/edit-with-vs-code.md)
 
+***
+
+* [Managing a Repo](managing-a-repo.md)
+
 ## Functions
 
 * [Collaboration](functions/page-1.md)
