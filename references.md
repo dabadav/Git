@@ -1,4 +1,4 @@
-# References
+# Resources
 
 ### **DOCUMENTATION**
 
@@ -15,5 +15,12 @@
 
 ### PROJECTS
 
-*
+* [https://github.com/verttj/my-home](https://github.com/verttj/my-home)
+* [https://github.com/cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui)
+* [https://github.com/jlgelpi/BioPhysics](https://github.com/jlgelpi/BioPhysics)
+
+### GitHub Pages
+
+* [Bioinformatics NGS data - NBISweden](https://nbisweden.github.io/workshop-ngsintro/2105/home\_content.html) - ([Repo](https://github.com/NBISweden/workshop-ngsintro))
+* [My test website](https://dabadav.github.io/website/2111/index.html)
 

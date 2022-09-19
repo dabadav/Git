@@ -1,27 +1,15 @@
 # Creating a Repo
 
-
-
-## Create your first repo
-
-###
-
 ### 1. Create repo in GitHub
 
 A repository contains all project files, including the revision history. Great repository names are short and memorable.
 
-Sign in to github.com and click on the New button on the top right side
+Sign in to [GitHub](https://github.com) and click on the New button on the top right side
 
-* Fill in the information relative toe new repository: name, description, type, license, excludes...
+* Fill in the information relative toe new repository: name, description, type, license, excludes..
 * Copy the URL to use it later
 
-[![CreateRepositoryGitHub](https://github.com/StructureLunatics/LunaticsIntoAction/raw/main/docs/git\_crash\_course/CreateRepositoryGitHub.png)](https://github.com/StructureLunatics/LunaticsIntoAction/blob/main/docs/git\_crash\_course/CreateRepositoryGitHub.png)
-
-###
-
 ### 2. Set your local folder as git repository
-
-####
 
 #### git init
 
@@ -32,8 +20,6 @@ cd C:\Users\fm85102\Documents\Coding\repos\powershell
 # Set current folder as git repository, it creates .git folder underneath
 git init
 ```
-
-####
 
 #### About Configuration scopes
 
@@ -234,29 +220,11 @@ y for all users in your computer
 # Settings defined in the most local scope take precedence
 ```
 
-####
-
-#### Configure username and email
-
-```
-# Set username and email
-git config --global user.name "John Doe"
-git config --global user.email "jdoe@proton.com"
-
-cd C:\Users\fm85102\CLionProjects\stack
-git config --global user.name  jdoe  
-git config --global user.email jdoe@proton.com
-```
-
-####
-
 #### Configure the default editor
 
 ```
 git config --global editor nano  
 ```
-
-###
 
 ### 3. Configure remote repository
 
@@ -286,14 +254,12 @@ origin https://github.com/dubium/powershell.git (fetch)
 origin https://github.com/dubium/powershell.git (push)
 
 git remote get-url --all origin
-https://github.com/dubium/powershell.git
+https://github.com/dubium/powershell.gitsudo apt install git-all
 ```
 
 ##
 
 ## Working with a Local repository
-
-###
 
 ### Stage and commit
 
@@ -313,7 +279,7 @@ git reset HEAD <filename>
 git commit -m "First commit"
 ```
 
-###
+
 
 ### Undo local changes
 
