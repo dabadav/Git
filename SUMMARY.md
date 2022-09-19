@@ -13,4 +13,4 @@
 
 ***
 
-* [References](references.md)
+* [Resources](resources.md)
