@@ -14,9 +14,9 @@
 * [Collaborative working](manage-your-repo/collaborative-working.md)
 * [Branches](manage-your-repo/branches.md)
 * [Merge](manage-your-repo/merge.md)
-* [Revert to previous commit](manage-your-repo/revert-to-previous-commit.md)
+* [Revert to previous commit](managing-a-repo/revert-to-previous-commit.md)
 
 ***
 
-* [Collaboration](page-1.md)
+* [Collaboration](functions/page-1.md)
 * [Resources](references.md)
