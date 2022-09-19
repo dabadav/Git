@@ -4,5 +4,9 @@
 
 ## Getting Started
 
-* [Meeting template](getting-started/meeting-template.md)
-* [Page 1](getting-started/page-1.md)
+* [Installing Git](getting-started/installing-git.md)
+* [Create a Github account](getting-started/create-a-github-account.md)
+
+## Functions
+
+* [Page 1](functions/page-1.md)
