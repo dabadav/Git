@@ -55,7 +55,7 @@ git config --global user.email networkdav.x@gmail.com
 
     <figure><img src="https://docs.github.com/assets/cb-33474/images/help/settings/personal_access_tokens.png" alt=""><figcaption></figcaption></figure>
 
-### Using a token on the command line <a href="#using-a-token-on-the-command-line" id="using-a-token-on-the-command-line"></a>
+#### Using a token on the command line <a href="#using-a-token-on-the-command-line" id="using-a-token-on-the-command-line"></a>
 
 Once you have a token, you can enter it instead of your password when performing Git operations over HTTPS.
 
@@ -66,3 +66,4 @@ $ git clone https://github.com/username/repo.git
 Username: your_username
 Password: your_token
 ```
+
