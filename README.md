@@ -1,5 +1,7 @@
 # Overview
 
+<figure><img src=".gitbook/assets/git.png" alt=""><figcaption></figcaption></figure>
+
 Git is open-source version control software, used for managing and tracking file revisions. It can be used with any file type, but is most often used for tracking code files.
 
 You’ve likely worked with some form of version control before. For example, Google Docs (as well as other Google Workspace tools) has a “Version History” tool where you can view changes to the document at different points in time. Microsoft Office has something similar with its “Track Changes” feature. Or, you might prefer saving multiple copies of a file and labeling them “v1”, “v2”, etc.
