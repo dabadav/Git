@@ -24,7 +24,7 @@ You can search for and clone a repository from GitHub using the **Git: Clone** c
 
 From the GitHub repository dropdown you can filter and pick the repository you want to clone locally.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Commit changes
 
@@ -36,5 +36,5 @@ In order to commit the changes you enter a description and click the commit butt
 
 Visual Studio Code Source Control allows you to perform all the Git operations you need in simple way
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

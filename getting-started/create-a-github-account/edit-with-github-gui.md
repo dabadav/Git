@@ -10,4 +10,4 @@ Add some changes to the code, and then `commit` the changes. For now, we will "C
 
 Remember to add a description for the `commit`:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
