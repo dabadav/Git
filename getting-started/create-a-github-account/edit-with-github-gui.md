@@ -4,7 +4,7 @@ In addition to being a host for Git content, GitHub includes a very straight for
 
 Let's try to edit the `README.md` file in GitHub. Just click the edit button:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Add some changes to the code, and then `commit` the changes. For now, we will "Commit directly to the master branch".
 
