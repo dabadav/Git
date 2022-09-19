@@ -10,3 +10,7 @@
 ## Functions
 
 * [Collaboration](functions/page-1.md)
+
+***
+
+* [References](references.md)
