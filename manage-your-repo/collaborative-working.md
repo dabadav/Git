@@ -16,3 +16,14 @@ To sum up, GitHub provides a centralized space where several, dozens, or even th
 
 ### Manage access to your repo
 
+1.  Access to the desired repository
+
+    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+2.  Click on the settings button and enter the Collaborators tab in the left menu
+
+    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+3.  Press the Add people button and enter the email/username of the person you want to grant access
+
+    <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+4. Once they accept the invitation they will be able to participate in the repository
+

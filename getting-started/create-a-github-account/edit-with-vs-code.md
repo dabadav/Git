@@ -32,9 +32,9 @@ Once you have cloned the desired repository locally, you can use vscode as the e
 
 In order to commit the changes you enter a description and click the commit button in the source control tab.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Visual Studio Code Source Control allows you to perform all the Git operations you need in simple way
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
