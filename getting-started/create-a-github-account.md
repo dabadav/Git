@@ -52,7 +52,7 @@ If you want to get a copy of an existing Git repository — for example, a p
 
 You clone a repository with `git clone <url>`. For example, if you want to clone the Git linkable library called `Test`, you can do so like this:
 
-```
+```bash
 git clone https://github.com/dav-esci/Test
 ```
 
