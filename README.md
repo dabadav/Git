@@ -17,6 +17,8 @@ Git is **open-source version control software**, used for managing and tracking 
 * **Pull** the latest version of the project to a local copy
 * **Push** local updates to the main project
 
+<figure><img src="https://git-scm.com/book/en/v2/images/areas.png" alt=""><figcaption></figcaption></figure>
+
 #### Working with Git
 
 * Initialize Git on a folder, making it a **Repository**
