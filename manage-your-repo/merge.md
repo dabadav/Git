@@ -27,7 +27,7 @@ If all goes well then our job is done. The new feature commits now appear in the
 
 _Merge Conflicts_ arise when multiple agents modify the same part of a file and push their changes to a remote branch. When you attempt to merge, pull from or push to these branches - there's a conflict, and Git isn't sure which set of changes to accept and which to reject, since there's no objective measure of which change is _right_.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ```bash
 git merge feature_john
@@ -61,8 +61,8 @@ A valid way to solve the conflict is to abort from it - and stop the _MERGING_ p
 
 While we're still in the merging phase, let's abort the merge altogether:
 
-```
-$ git merge --abort
+```bash
+git merge --abort
 ```
 
 This simply aborts the merge and your file is returned to its state before you've encountered the conflict:
@@ -74,14 +74,14 @@ New line!
 
 If you're using Git's Command-Line Editor (or other shells that support the feature), you'll also be able to see which phase you're in:
 
-```
+```bash
 (main)
-$ git merge feature_john
+git merge feature_john
 Auto-merging README.md
 CONFLICT (content): Merge conflict in README.md
 Automatic merge failed; fix conflicts and then commit the result.
 (main|MERGING)
-$ git merge --abort
+git merge --abort
 (main)
 $
 ```
@@ -117,11 +117,11 @@ New line!
 
 Now, we `add` the file once again and run the `$ git merge --continue` command:
 
-```
-Fix the file...
-$ git add README.md
+```bash
+# Fix the file...
+git add README.md
 
-$ git merge --continue
+git merge --continue
 [main fea8fbb] Merge branch 'feature_john'
 ```
 
@@ -137,12 +137,12 @@ When updating - you can _keep_ the changes made on a different branch and apply 
 
 In the context of `main`, these changes are referred to as **theirs**, while the changes on `main` are referred to as **ours**. If you wish to keep changes from `main`, switch the `--theirs` flag with `--ours`:
 
-```
-$ git checkout --theirs README.md
+```bash
+git checkout --theirs README.md
 Updated 1 path from the index
-$ git add README.md
+git add README.md
 
-$ git commit -m "Accepting changes from feature_john"
+git commit -m "Accepting changes from feature_john"
 [main 5541f29] Accepting changes from feature_john
 ```
 
