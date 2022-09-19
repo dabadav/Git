@@ -1,5 +1,8 @@
 ---
-description: https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
+description: >-
+  You can find a more in depth explanation of git branches in the official
+  documentation:
+  https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
 ---
 
 # Branches
