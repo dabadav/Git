@@ -9,4 +9,4 @@
 
 ## Functions
 
-* [Page 1](functions/page-1.md)
+* [Collaboration](functions/page-1.md)
