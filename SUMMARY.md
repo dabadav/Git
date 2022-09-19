@@ -9,15 +9,14 @@
   * [Edit with GitHub GUI](getting-started/create-a-github-account/edit-with-github-gui.md)
   * [Edit with VS Code](getting-started/create-a-github-account/edit-with-vs-code.md)
 
-***
+## Manage your Repo
 
-* [Managing a Repo](managing-a-repo.md)
-  * [Revert to previous commit](managing-a-repo/revert-to-previous-commit.md)
-
-## Functions
-
-* [Collaboration](functions/page-1.md)
+* [Collaborative working](manage-your-repo/collaborative-working.md)
+* [Branches](manage-your-repo/branches.md)
+* [Merge](manage-your-repo/merge.md)
+* [Revert to previous commit](manage-your-repo/revert-to-previous-commit.md)
 
 ***
 
+* [Collaboration](page-1.md)
 * [Resources](references.md)
