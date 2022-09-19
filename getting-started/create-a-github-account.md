@@ -6,7 +6,7 @@ A repository contains all project files, including the revision history. Great r
 
 Sign in to [GitHub](https://github.com) and click on the New button on the top right side
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Fill in the information relative to the new repository: name, description, type, license, excludes..
 * Copy the URL to use it later

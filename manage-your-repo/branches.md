@@ -9,13 +9,16 @@ description: >-
 
 ### Create a New Branch
 
-The most common way to create a new branch is the following:
+The most common way to create a new branch is the following, which will at the same time create and move you to the new branch:
 
 ```bash
 git checkout -b <branch-name>
+
+# If you just want to create a new branch without moving to it:
+git branch <branch-name>
 ```
 
-In order to check the existing branches and in which one are you currently working, you can use
+In order to list the existing branches and see in which one are you currently working, you can use:
 
 ```bash
 git branch

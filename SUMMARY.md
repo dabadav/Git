@@ -18,5 +18,4 @@
 
 ***
 
-* [Collaboration](functions/page-1.md)
 * [Resources](references.md)
