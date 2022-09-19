@@ -1,10 +1,10 @@
 # Table of contents
 
 * [Overview](README.md)
+* [Getting started](installing-git.md)
 
 ## Getting Started
 
-* [Installing Git](getting-started/installing-git.md)
 * [Create a Github account](getting-started/create-a-github-account.md)
 
 ## Functions
