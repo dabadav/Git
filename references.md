@@ -23,4 +23,4 @@
 ### GitHub Pages
 
 * ****[**Bioinformatics NGS data - NBISweden**](https://nbisweden.github.io/workshop-ngsintro/2105/home\_content.html) **- (**[**Repo**](https://github.com/NBISweden/workshop-ngsintro)**)**
-* [**My website test**](https://dabadav.github.io/website/2111/index.html)****
+* [**Website test**](https://dabadav.github.io/website/2111/index.html)****
